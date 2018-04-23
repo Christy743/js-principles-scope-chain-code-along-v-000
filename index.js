@@ -10,7 +10,7 @@ function setBestCustomer(){
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'sour fred';
+ leastFavoriteCustomer = 'sour fred';
 }
 
 function overWriteBestCustomer(newFavorite){
@@ -25,3 +25,8 @@ function congratulateCustomer(){
    let favoriteCustomer = 'bar'
    let favoriteCustomer = 'not bar'
  }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> b61bb9b9822288834c2a4b5a7373ffd8da8ec910
